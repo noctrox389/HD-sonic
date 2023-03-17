@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sonic.png">
+<SubTexture name="Sonic Down0000" x="1496" y="2140" width="379" height="508" frameX="-190" frameY="-163" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Down0001" x="1496" y="2140" width="379" height="508" frameX="-190" frameY="-163" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Down0002" x="1875" y="2140" width="377" height="508" frameX="-192" frameY="-161" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Up0000" x="0" y="0" width="391" height="552" frameX="-204" frameY="-119" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Up0001" x="0" y="0" width="391" height="552" frameX="-204" frameY="-119" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Up0002" x="391" y="0" width="391" height="551" frameX="-204" frameY="-120" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Right0000" x="406" y="552" width="406" height="526" frameX="-205" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Right0001" x="406" y="552" width="406" height="526" frameX="-205" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Right0002" x="746" y="1616" width="403" height="523" frameX="-204" frameY="-147" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Left0000" x="782" y="0" width="409" height="539" frameX="-123" frameY="-131" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Left0001" x="782" y="0" width="409" height="539" frameX="-123" frameY="-131" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Left0002" x="0" y="552" width="406" height="539" frameX="-126" frameY="-131" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0000" x="1122" y="2140" width="374" height="514" frameX="-180" frameY="-155" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0001" x="1122" y="2140" width="374" height="514" frameX="-180" frameY="-155" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0002" x="1895" y="1616" width="373" height="521" frameX="-175" frameY="-148" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0003" x="1895" y="1616" width="373" height="521" frameX="-175" frameY="-148" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0004" x="1895" y="1616" width="373" height="521" frameX="-175" frameY="-148" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0005" x="1486" y="1091" width="373" height="524" frameX="-177" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0006" x="1486" y="1091" width="373" height="524" frameX="-177" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0007" x="1191" y="526" width="373" height="525" frameX="-180" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0008" x="1191" y="526" width="373" height="525" frameX="-180" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0009" x="1191" y="526" width="373" height="525" frameX="-180" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0010" x="1935" y="0" width="371" height="524" frameX="-189" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0011" x="1935" y="0" width="371" height="524" frameX="-189" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0012" x="1935" y="0" width="371" height="524" frameX="-189" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Idle0013" x="1564" y="0" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0000" x="2306" y="521" width="373" height="520" frameX="-182" frameY="-149" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0001" x="1522" y="1616" width="373" height="522" frameX="-182" frameY="-147" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0002" x="0" y="2140" width="374" height="519" frameX="-180" frameY="-150" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0003" x="748" y="2140" width="374" height="518" frameX="-180" frameY="-151" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0004" x="374" y="2140" width="374" height="519" frameX="-180" frameY="-150" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0005" x="1149" y="1616" width="373" height="523" frameX="-183" frameY="-146" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0006" x="2306" y="0" width="373" height="521" frameX="-183" frameY="-148" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0007" x="1149" y="1616" width="373" height="523" frameX="-183" frameY="-146" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0008" x="1935" y="524" width="369" height="524" frameX="-199" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0009" x="1935" y="524" width="369" height="524" frameX="-199" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0010" x="1935" y="524" width="369" height="524" frameX="-199" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0011" x="1564" y="525" width="370" height="525" frameX="-193" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0012" x="1564" y="525" width="370" height="525" frameX="-193" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0013" x="1564" y="525" width="370" height="525" frameX="-193" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0014" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0015" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0016" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0017" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0018" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0019" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0020" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded0021" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0000" x="812" y="552" width="373" height="526" frameX="-180" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0001" x="812" y="552" width="373" height="526" frameX="-180" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0002" x="812" y="552" width="373" height="526" frameX="-180" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0003" x="1191" y="0" width="373" height="526" frameX="-185" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0004" x="1191" y="0" width="373" height="526" frameX="-185" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0005" x="371" y="1091" width="371" height="525" frameX="-190" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0006" x="371" y="1091" width="371" height="525" frameX="-190" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0007" x="371" y="1091" width="371" height="525" frameX="-190" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0008" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0009" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Loop0010" x="0" y="1091" width="371" height="525" frameX="-191" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0000" x="742" y="1091" width="372" height="525" frameX="-189" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0001" x="742" y="1091" width="372" height="525" frameX="-189" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0002" x="1114" y="1091" width="372" height="525" frameX="-185" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0003" x="1114" y="1091" width="372" height="525" frameX="-185" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0004" x="1114" y="1091" width="372" height="525" frameX="-185" frameY="-144" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0005" x="0" y="1616" width="373" height="524" frameX="-182" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0006" x="0" y="1616" width="373" height="524" frameX="-182" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0007" x="0" y="1616" width="373" height="524" frameX="-182" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0008" x="373" y="1616" width="373" height="524" frameX="-181" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0009" x="373" y="1616" width="373" height="524" frameX="-181" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sonic Ded Retry0010" x="373" y="1616" width="373" height="524" frameX="-181" frameY="-145" frameWidth="720" frameHeight="720" />
+</TextureAtlas>
